@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/cjohn/Desktop/sqlcipher/SQLCipher/build/Release-iphoneos/SQLCipher.framework/SQLCipher'
+relocations:     []
+...
